@@ -1,0 +1,32 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+text-align: center;
+}
+
+header img{
+    width: 200px;
+}
+
+table{
+width: 55%;
+border: 2px solid;
+border-collapse: collapse;
+}                   
+
+tr{
+border: 2px solid;
+padding: 10px;
+}
+
+td{
+border: 2px solid;
+padding: 10px;
+}
+
+tbody tr td img{
+    width: 50px;
+}
